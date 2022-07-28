@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm mdbrnd</h1>
 <h3 align="center">17yr old Developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdbrnd" alt="mdbrnd" /></a> </p>
-
 - 🔭 I’m currently working on [Ter](https://github.com/mdbrnd/Ter)
 
 <h3 align="left">Connect with me:</h3>
@@ -15,4 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdbrnd&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdbrnd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdbrnd&show_icons=true&theme=dark&locale=en" alt="mdbrnd" /></p>
-
