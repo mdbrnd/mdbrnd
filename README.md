@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Ter](https://github.com/mdbrnd/Ter)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
