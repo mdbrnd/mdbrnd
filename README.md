@@ -1,7 +1,4 @@
 <h1 align="left">Hi 👋, I'm mdbrnd</h1>
-<h3 align="left">17yr old Developer from Germany</h3>
-
-- 🔭 I’m currently working on [Ter](https://github.com/mdbrnd/Ter)
 
 <p align="left">
 </p>
