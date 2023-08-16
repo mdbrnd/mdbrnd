@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm mdbrnd</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdbrnd" alt="mdbrnd" /></a> </p>
-
 - 🔭 I’m currently working on [pem backend](https://github.com/mdbrnd/pem-backend)
 
 - 🌱 I’m currently learning **React, TS**
